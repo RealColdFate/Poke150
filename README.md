@@ -1,5 +1,6 @@
 # Poke150
 CNN that classifies the 151 original Pokémon 
+# 151 Gen One Pokémon 
 ![Bulbasaur-Image](https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png)
 ![Ivysaur-Image](https://assets.pokemon.com/assets/cms2/img/pokedex/detail/002.png)
 ![Venusaur-Image](https://assets.pokemon.com/assets/cms2/img/pokedex/detail/003.png)
